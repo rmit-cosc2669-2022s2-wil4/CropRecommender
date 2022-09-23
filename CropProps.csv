@@ -1,0 +1,67 @@
+﻿Type,Name,MaxQuality,RainfallLow,RainfallMed,RainfallHigh,Screenings,Maturity,Winter,Height,ColeoptileLength,Lodging,Sprouting,HeadTypeColour,HeadTypeAwn,SoilTolleranceBoron,SoilTolleranceAcid
+Bread Wheat,Ascot,APW ,,TRUE,TRUE,MR ,MS ,,M ,ML ,RMR ,,W ,,,
+Bread Wheat,Ballista,AH ,TRUE,TRUE,,MR ,QM ,,S ,M ,MR ,,W ,,,
+Bread Wheat,Beckom,AH ,TRUE,TRUE,TRUE,MRMS ,M ,,S ,M ,MRMS ,MSS ,W ,,MT ,MTT
+Bread Wheat,Boree,NYC ,TRUE,TRUE,,MR ,M ,,M ,M ,MRp ,MSSp ,W ,,,
+Bread Wheat,Calibre,AH ,TRUE,TRUE,,MR ,QM ,,M ,ML ,MRMSp ,MSSp ,W ,,,
+Bread Wheat,Catapult,AH ,TRUE,TRUE,TRUE,MR ,MS ,,M ,M ,MRMS ,MSS ,W ,,MT ,MTT
+Bread Wheat,Chief CL Plus,APW ,TRUE,TRUE,TRUE,MR ,M ,,M ,M ,MR ,S ,W ,,,
+Bread Wheat,Coolah,AH ,,TRUE,TRUE,MR ,MS ,,M ,M ,MRMS ,S ,W ,,I ,MT
+Bread Wheat,Coota,AH ,TRUE,TRUE,TRUE,R ,MS ,,S ,M ,MR ,,W ,,,
+Bread Wheat,Corack,APW ,TRUE,TRUE,,R ,Q ,,S ,M ,MR ,S ,W ,,I ,MTT
+Bread Wheat,Cosmick,AH ,TRUE,TRUE,,MS ,M ,,M ,L ,MRMS ,SSVSp ,W ,,,
+Bread Wheat,Cutlass,APW ,TRUE,TRUE,,MRMS ,MS ,,MT ,ML ,MRMS ,S ,W ,,MT ,MTT
+Bread Wheat,Denison,APW ,,TRUE,TRUE,MR ,S ,,S ,M ,MR ,,W ,,,
+Bread Wheat,DS Bennett,ASW ,,TRUE,TRUE,,M  ,TRUE,T ,,,,W ,AL ,,
+Bread Wheat,DS Darwin,AH ,TRUE,TRUE,,MR ,M ,,M ,S ,MR ,SVSp ,W ,,,
+Bread Wheat,DS Pascal,APW ,,TRUE,TRUE,MR ,S ,,M ,S ,MR ,MRp ,W ,,,
+Bread Wheat,EGGregory,APW* ,,TRUE,TRUE,MR ,MS ,,T ,M ,MS ,S ,W ,,MR ,MT
+Bread Wheat,EGWedgetail,APW* ,,TRUE,TRUE,MR ,M  ,TRUE,M ,MS ,MR ,S ,W ,,I ,MTT
+Bread Wheat,EG Titanium ,AH ,,TRUE,TRUE,R ,MS ,,S ,M ,R ,MR ,W ,,,MTT
+Bread Wheat,Elmore CL Plus,AH ,,TRUE,,MS ,M ,,M ,M ,MRMS ,S ,W ,,I ,I
+Bread Wheat,Emu Rock,AH ,TRUE,TRUE,,R ,VQQ ,,S ,M ,R ,S ,W ,,,
+Bread Wheat,Grenade CL Plus,AH ,,TRUE,,MR ,QM ,,M ,ML ,MR ,S ,W ,,MT ,MTT
+Bread Wheat,Hammer CL Plus,AH ,TRUE,TRUE,,MR ,QM ,,S ,M ,MRMS ,,W ,,,
+Bread Wheat,Illabo,AH ,TRUE,TRUE,TRUE,MRp ,Q  ,TRUE,S ,S ,MRp ,Sp ,W ,,Ip ,MTp
+Bread Wheat,Kord CL Plus,AH ,TRUE,TRUE,,MR ,M ,,M ,S ,,SVS ,W ,,MT ,MT
+Bread Wheat,LRPB Bale,APW ,,TRUE,,MR ,S ,,T ,L ,MRMS ,,W ,AL ,MT ,MT
+Bread Wheat,LRPB Cobra,AH ,TRUE,TRUE,TRUE,MRMS ,QM ,,S ,M ,MR ,SVS ,W ,,I ,MT
+Bread Wheat,LRPB Dual,AH ,TRUE,TRUE,,MR ,MS ,,MT ,ML ,MR ,,W ,AL ,MT ,MT
+Bread Wheat,LRPB Kittyhawk,AH ,,TRUE,TRUE,MR ,M  ,TRUE,M ,MS ,MR ,S ,W ,,I ,MTMI
+Bread Wheat,LRPB Lancer,AH ,,TRUE,TRUE,MR ,MS ,,S ,M ,MR ,S ,W ,,I ,MII
+Bread Wheat,LRPB Nighthawk,APW ,,TRUE,,MRMS ,VS ,,M ,M ,MR ,S ,W ,,I ,MI
+Bread Wheat,LRPB Scout,AH ,TRUE,TRUE,TRUE,MR ,M ,,M ,ML ,MRMS ,MS ,W ,,MI ,MTT
+Bread Wheat,LRPB Trojan,APW ,,TRUE,TRUE,MR ,MS ,,M ,M ,MR ,MSS ,W ,,MI ,MTMI
+Bread Wheat,Mace,AH ,TRUE,TRUE,,MR ,QM ,,M ,M ,MR ,MSS ,W ,,MT ,MTT
+Bread Wheat,Razor CL Plus,ASW ,TRUE,TRUE,,MR ,QM ,,M ,M ,MR ,MSSp ,W ,,MT ,MTT
+Bread Wheat,RockStar,AH ,TRUE,TRUE,TRUE,MR ,MS ,,M ,M ,MR ,,W ,,,
+Bread Wheat,Scepter,AH ,TRUE,TRUE,,MR ,M ,,M ,MS ,MR ,MSS ,W ,,MT ,MTT
+Bread Wheat,Sheriff CL Plus,APW ,,TRUE,TRUE,MR ,MS ,,M ,M ,MR ,,W ,,,
+Bread Wheat,Sunblade CL Plus,AH ,TRUE,TRUE,TRUE,MS ,M ,,M ,MS ,MR ,,W ,,,
+Bread Wheat,Sunflex,AH ,,TRUE,TRUE,MR ,S ,,S ,MS ,MR ,,W ,,,
+Bread Wheat,Sunlamb,ASW ,,TRUE,TRUE,MR ,VS ,,M ,M ,MR ,MSp ,W ,AL ,I ,MI
+Bread Wheat,Sunmaster,NYC ,TRUE,TRUE,TRUE,MRMS ,M ,,M ,M ,MR ,SVSp ,W ,,,
+Bread Wheat,Suntop,AH ,TRUE,TRUE,TRUE,MS ,M ,,MT ,M ,MR ,SVS ,W ,,I ,MT
+Bread Wheat,ValiantCL Plus ,AH ,TRUE,TRUE,TRUE,MR ,S ,,M ,L ,MRMS ,,W ,,,
+Bread Wheat,Vixen,AH ,TRUE,TRUE,TRUE,MR ,Q ,,M ,M ,MR ,,W ,,,
+Bread Wheat,Wallup,AH ,,TRUE,,MR ,QM ,,S ,MS ,MR ,S ,W ,,I ,I
+Bread Wheat,Yitpi,AH ,TRUE,TRUE,,MR ,MS ,,T ,ML ,MS ,MS ,W ,,MT ,MTT
+Specialty,LRPB Oryx,ASFT ,,TRUE,,MR ,M ,,M ,MS ,MR ,MSS ,W ,A ,I ,MII
+Specialty,LRPB Parakeet,ANW ,,TRUE,,MR ,M ,,MT ,M ,MRMS ,MSS ,W ,A ,I ,MTMI
+Durum Wheat,Bitalli,ADR ,TRUE,TRUE,TRUE,MR ,QM ,,M ,M , , ,W ,A , ,
+Durum Wheat,DBA Artemis,ADR ,,TRUE,TRUE,R ,M ,, , , , ,W ,A , ,
+Durum Wheat,DBA Aurora,ADR ,,TRUE,TRUE,R ,M ,,M ,ML ,MR ,MR ,W ,A ,MT ,
+Durum Wheat,DBA Mataroi,ADR ,,TRUE,,MR ,Q ,,M , , , ,W ,A , ,
+Durum Wheat,DBA Spes,ADR ,,TRUE,TRUE,R ,M ,, , , , ,W ,A , ,
+Durum Wheat,Westcourt,ADR ,TRUE,TRUE,TRUE,MR ,M ,,T ,ML , , ,W ,A , ,
+Feed Wheat,Anapurna ,Feed ,,,TRUE, ,MS  ,TRUE,S ,M ,R ,R ,R ,A , ,
+Feed Wheat,LRPB Beaufort,Feed ,,TRUE,TRUE, ,SVS ,,M , ,MRMS ,MR ,R ,AL , ,MT
+Feed Wheat,Longsword,Feed* ,TRUE,TRUE,TRUE,MR ,Q  ,TRUE,M ,M ,MR , ,W ,A ,MTp ,MTp
+Feed Wheat,Manning,Feed ,,,TRUE, ,S  ,TRUE, , , ,MSSp ,W ,AL , ,
+Feed Wheat,RGT Accroc ,Feed ,,TRUE,TRUE, ,MS  ,TRUE,M , ,R ,R ,R ,A , ,
+Feed Wheat,RGT Calabro ,Feed ,,,TRUE, ,S  ,TRUE,M , ,R ,R ,R ,A , ,
+Feed Wheat,RGT Cesario ,Feed ,,TRUE,TRUE, ,MS  ,TRUE,M , ,R ,R ,R ,AL , ,
+Feed Wheat,RGT Zanzibar ,Feed ,TRUE,TRUE,TRUE, ,VS ,,MT , , ,R ,R ,A , ,
+Feed Wheat,Severn ,Feed ,,TRUE,TRUE, ,QM  ,TRUE,MT , , , ,W ,AL , ,
+Feed Wheat,SF Adagio ,Feed ,,TRUE,TRUE, ,S  ,TRUE, , , ,Rp ,R ,A , ,
+Feed Wheat,SQP Revenue,Feed ,,,TRUE, ,S  ,TRUE,S , , ,Rp ,R ,AL , ,
