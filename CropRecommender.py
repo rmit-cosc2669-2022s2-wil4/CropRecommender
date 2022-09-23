@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn import preprocessing
 
 df = pd.read_csv(r"CropProps.csv")
-
+print(df.head())
 
 
 rainfallFeatures = ['RainfallLow', 'RainfallMed', 'RainfallHigh', 'Winter']
@@ -20,4 +20,4 @@ crops['Maturity'] = leM.transform(df['Maturity'])
 
 cosine_sim = cosine_similarity(crops)
 
-print (cosine_sim)
+print (cosine_sim.info())
