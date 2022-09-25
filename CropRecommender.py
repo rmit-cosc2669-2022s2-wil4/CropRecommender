@@ -12,12 +12,28 @@ rainfallFeatures = ['RainfallLow', 'RainfallMed', 'RainfallHigh', 'Winter']
 for f in rainfallFeatures:
     df[f] = df[f].fillna(False)
 
-le = preprocessing.LabelEncoder()
-leM = le.fit(df['Maturity'])
+df['Maturity'] = df['Maturity'].str.strip()
+leM = preprocessing.LabelEncoder()
+leM.fit(df['Maturity'])
 
 crops = df[['RainfallLow', 'RainfallMed', 'RainfallHigh', 'Winter']]
 crops['Maturity'] = leM.transform(df['Maturity'])
 
-cosine_sim = cosine_similarity(crops)
+input_LowRainfall = True
+input_MedRainfall = False
+input_HighRainfall = False
+input_Winter = True
+input_Maturity = leM.transform(['M'])[0]
 
-print (cosine_sim.info())
+inputs = [[ input_LowRainfall, input_MedRainfall, input_HighRainfall, input_Winter, input_Maturity]]
+
+cosine_sim = cosine_similarity(crops, inputs)
+
+results = list(enumerate(cosine_sim)) 
+results.sort(key=lambda y: y[1], reverse=True)
+
+for idx in range(5):
+    ii = results[idx][0]
+    crop = df.iloc[[ii]]
+    print(crop)
+    
