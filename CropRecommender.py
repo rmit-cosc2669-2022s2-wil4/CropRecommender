@@ -5,8 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn import preprocessing
 
 df = pd.read_csv(r"CropProps.csv")
-print(df.head())
-
+#  print(df.head())
 
 rainfallFeatures = ['RainfallLow', 'RainfallMed', 'RainfallHigh', 'Winter']
 for f in rainfallFeatures:
@@ -36,4 +35,3 @@ for idx in range(5):
     ii = results[idx][0]
     crop = df.iloc[[ii]]
     print(crop)
-    
